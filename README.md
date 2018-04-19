@@ -12,6 +12,7 @@
 
 ### 自研小工具
 - [获取APK签名](https://github.com/bingyupj/2018TODOLIST/tree/master/%E8%8E%B7%E5%8F%96APK%E7%AD%BE%E5%90%8D)
+- [AES算法实现说明](https://github.com/bingyupj/2018TODOLIST/blob/master/java/AES/AES256.md)
 
 ### 小工具：
 
